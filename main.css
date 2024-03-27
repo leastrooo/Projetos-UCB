@@ -1,0 +1,16 @@
+p {
+    font-size: x-large;
+}
+
+h1 {
+    background-color: red;
+}
+
+.Aluno{
+    color: blue;
+    text-shadow: 2ex;
+}
+
+#Curso {
+    text-align: center;
+}
