@@ -3,7 +3,7 @@ p {
 }
 
 h1 {
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     text-align: center;
 }
 
@@ -19,4 +19,31 @@ body {
 .imagem-CRF{
     text-align: center;
     size: max-width 400px; max-height: 250px
+}
+
+.flex-item {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.flex-item {
+    background: red;
+    height: 50px;
+    width: 25px;
+    line-height: 50px;
+    font-size: x-large;
+    color:  yellow;
+    text-align: center;
+    margin: 5px;
+
+}
+
+.Lista-de-titulos {
+    font-size: px;
+}
+
+.Lista-titulos {
+    color: red;
 }
